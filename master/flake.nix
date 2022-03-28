@@ -11,7 +11,6 @@
   inputs.src-enet-master.ref   = "refs/heads/master";
   inputs.src-enet-master.owner = "fowlmouth";
   inputs.src-enet-master.repo  = "nimrod-enet";
-  inputs.src-enet-master.dir   = "";
   inputs.src-enet-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
