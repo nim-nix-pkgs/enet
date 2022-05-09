@@ -7,30 +7,8 @@
   "license": "MIT",
   "web": "https://github.com/fowlmouth/nimrod-enet",
   "refs": [
-    "refs/heads/master",
+    "fatal: unable to access 'https://github.com/fowlmouth/nimrod-enet/': Could not resolve host: github.com",
     ""
   ],
-  "heads": [
-    {
-      "name": "enet",
-      "version": "1.0.3",
-      "author": "fowl",
-      "desc": "Wrapper for ENet UDP networking library",
-      "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [],
-      "installFiles": [
-        "enet.nim"
-      ],
-      "installExt": [],
-      "requires": [],
-      "bin": [],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/heads/master"
-    }
-  ]
+  "heads": []
 }
