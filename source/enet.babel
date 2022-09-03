@@ -1,6 +1,0 @@
-[Package]
-name = "enet"
-version = "1.0.3"
-author = "fowl"
-description = "Wrapper for ENet UDP networking library"
-license = "MIT"
